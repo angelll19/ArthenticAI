@@ -1,0 +1,7 @@
+{
+  "name": "Arthentic AI - Curator & Authenticator",
+  "description": "An AI-powered gallery assistant that detects pigments, origin logos, and wall suitability using Gemini Vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
