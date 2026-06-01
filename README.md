@@ -5,6 +5,8 @@
 ### AI-Powered Art Discovery & Visualization
 
 **Live Demo:** https://arthenticai.vercel.app/
+
+
 **Youtube Demo:** https://youtube.com/shorts/iq1cNuWUD2E?si=TD91i8P_QIMXBj1g
 </div>
 
@@ -44,7 +46,9 @@ Arthentic AI aims to make art discovery more accessible by combining artificial 
 
 ## Technologies Used
 -Google AI Studio
+
 -Google Gemini API
+
 -Vercel (Deployment)
 
 ## Development
