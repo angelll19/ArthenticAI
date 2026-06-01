@@ -5,7 +5,7 @@
 ### AI-Powered Art Discovery & Visualization
 
 **Live Demo:** https://arthenticai.vercel.app/
-
+**Youtube Demo:** https://youtube.com/shorts/iq1cNuWUD2E?si=TD91i8P_QIMXBj1g
 </div>
 
 ---
